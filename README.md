@@ -1,1 +1,3 @@
 # EDA
+This project performs Exploratory Data Analysis (EDA) on a Shopping dataset from Kaggle. The dataset contains features such as customer ID, gender, purchased items, payment methods, and subscription status. The analysis focuses on understanding the dataset structure, detecting and handling missing values, dropping unwanted and duplicate features, renaming columns, and identifying outliers.
+Python libraries like pandas, numpy, matplotlib, and seaborn are used for cleaning, analysis, and visualization. The results provide a cleaned dataset and visual insights into customer purchasing patterns, which can be useful for further analysis or modeling.
